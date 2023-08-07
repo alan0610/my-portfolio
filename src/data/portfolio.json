@@ -8,32 +8,25 @@
             "srcCode": "https://github.com/alan0610/Tip-Calculator"
         },
         {
-            "title": "Calculator",
-            "image": "/proyecto2.png",
-            "description": "Putazooooooo",
-            "url": "https://www.youtube.com/watch?v=I2TNlHVJ9KQ&ab_channel=CodewithSloba",
-            "srcCode": "https://github.com/bobangajicsm/react-portfolio-website/blob/master/src/data/portfolio.json"
+            "title": "CRUD notes app",
+            "image": "notes.png",
+            "description": "Crud app for Create, Read, Update or Delete personal notes. Made with NodeJs, ReactJs and MySql",
+            "url": "https://alan0610.github.io/notesCRUD/",
+            "srcCode": "https://github.com/alan0610/notesCRUD"
         },
         {
-            "title": "Calculator",
-            "image": "/proyecto2.png",
-            "description": "Putazooooooo",
-            "url": "https://www.youtube.com/watch?v=I2TNlHVJ9KQ&ab_channel=CodewithSloba",
-            "srcCode": "https://github.com/bobangajicsm/react-portfolio-website/blob/master/src/data/portfolio.json"
+            "title": "ONG Alkemy project",
+            "image": "ong.jpg",
+            "description": "Backend project made with NodeJs during my training in Alkemy. Swagger, JWT, MySql, Amazon S3",
+            "url": "https://github.com/alkemyTech/OT264-server",
+            "srcCode": "https://github.com/alkemyTech/OT264-server"
         },
         {
-            "title": "Calculator",
-            "image": "/proyecto2.png",
-            "description": "Putazooooooo",
-            "url": "https://www.youtube.com/watch?v=I2TNlHVJ9KQ&ab_channel=CodewithSloba",
-            "srcCode": "https://github.com/bobangajicsm/react-portfolio-website/blob/master/src/data/portfolio.json"
-        },
-        {
-            "title": "Calculator",
-            "image": "/proyecto2.png",
-            "description": "Putazooooooo",
-            "url": "https://www.youtube.com/watch?v=I2TNlHVJ9KQ&ab_channel=CodewithSloba",
-            "srcCode": "https://github.com/bobangajicsm/react-portfolio-website/blob/master/src/data/portfolio.json"
+            "title": "Menu",
+            "image": "Menu.png",
+            "description": "Simple Menu made with ReactJs and CSS",
+            "url": "https://alan0610.github.io/Menu",
+            "srcCode": "https://github.com/alan0610/Menu"
         }
     ]
 }
