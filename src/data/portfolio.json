@@ -2,7 +2,7 @@
     "portfolio": [
         {
             "title": "Tip Calculator",
-            "image": "/CalculatorTip.png",
+            "image": "CalculatorTip.png",
             "description": "A Javascript app to calculate the amount odf money each person should pay. Made with Javascript, HTML and CSS",
             "url": "https://alan0610.github.io/Tip-Calculator/",
             "srcCode": "https://github.com/alan0610/Tip-Calculator"
