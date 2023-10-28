@@ -11,7 +11,7 @@
             "title": "CRUD notes app",
             "image": "notes.png",
             "description": "Crud app for Create, Read, Update or Delete personal notes. Made with NodeJs, ReactJs and MySql",
-            "url": "https://notes-creator.up.railway.app/notesCRUD/",
+            "url": "https://notes-frontend-nque.onrender.com/",
             "srcCode": "https://github.com/alan0610/notesCRUD"
         },
         {
