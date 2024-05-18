@@ -46,8 +46,10 @@ const About = () => {
             organization.
           </p>
           <p>
-            Tecnical skills: JavaScript, HTML5/CSS3, MySQL, React, Express,
-            NodeJS, Git, Bootstrap, Postman, Mocha and Chai
+            Backend skills: Java, Spring, Postman, NodeJs, SQL, MongoDB
+          </p>
+          <p>
+            Frontend skills: Javascript, ReactJs, HTML/CSS, Bootstrap, Material UI, Tailwind
           </p>
         </div>
 
