@@ -46,9 +46,7 @@ const About = () => {
             organization.
           </p>
           <p>
-            Backend skills: Java, Spring, Postman, NodeJs, SQL, MongoDB
-          </p>
-          <p>
+            Backend skills: Java, Spring, Postman, NodeJs, SQL, MongoDB <br />
             Frontend skills: Javascript, ReactJs, HTML/CSS, Bootstrap, Material UI, Tailwind
           </p>
         </div>
